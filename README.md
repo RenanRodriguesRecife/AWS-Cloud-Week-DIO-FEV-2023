@@ -14,3 +14,12 @@ Benefícios AWS
 
 - AWS tem uma presença global.
 
+===============================
+
+Aplicação serveless muda muito a forma de cobraça pois você não vai pagar por utilização (tipo um aluguel de um apartamento que você paga mesmo se utilizar) e sim por requisição.
+
+
+
+
+
+https://www.youtube.com/watch?v=LsRXU29Hc90
